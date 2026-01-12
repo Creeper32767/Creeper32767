@@ -1,8 +1,10 @@
 # Hi there, I'm Creeper32767 👋
 
-<center>
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Creeper32767?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
-</center>
+<p align="center>
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Creeper32767?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false" alt="My GitHub Stats">
+  </a>
+</p>
 
 I'm a Python developer passionate about creating practical, open-source tools that are both functional and easy to use. My work often involves building desktop applications with modern GUIs and useful backend libraries.
 
