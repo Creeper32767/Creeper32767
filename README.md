@@ -1,13 +1,6 @@
 # Hi there, I'm Creeper32767 👋
 
-<p align="center">
-  <a href="https://github.com/Creeper32767">
-    <img src="https://github-readme-stats.vercel.app/api?username=Creeper32767&show_icons=true&theme=dracula&count_private=true" alt="Creeper32767's GitHub stats" />
-  </a>
-  <a href="https://github.com/Creeper32767">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creeper32767&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Creeper32767?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 I'm a Python developer passionate about creating practical, open-source tools that are both functional and easy to use. My work often involves building desktop applications with modern GUIs and useful backend libraries.
 
